@@ -1,0 +1,11 @@
+setup.cfg
+setup.py
+src/dv.egg-info/PKG-INFO
+src/dv.egg-info/SOURCES.txt
+src/dv.egg-info/dependency_links.txt
+src/dv.egg-info/requires.txt
+src/dv.egg-info/top_level.txt
+src/learn/__init__.py
+src/learn/gui.py
+src/learn/index.py
+src/learn/module.py
